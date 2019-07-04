@@ -1,0 +1,27 @@
+﻿#P ¿Es un mamífero?
+#P ¿Es un animal domestico?
+#P Maulla?
+#R Gato
+#P Esta dentro de una jaula?
+#R Un loro 
+#P ¿Tiene caparazon?
+#R tortuga
+#R Es un perro
+#P ¿Es un animal de granja?
+#P Sirve de transporte en el campo?
+#R Caballo
+#P Pasa sucio todo el dia? 
+#R Un cerdo
+#R Es una oveja
+#P Salta , y corre muy veloz?
+#R conejo
+#R Es un elefante
+#P ¿Es una ave?
+#R es un pinguino
+#P ¿Vive en el oceano?
+#P ¿Canta?
+#R Es una ballena
+#R Es un pez
+#P ¿Tiene 6 patas?
+#R Es una araña
+#R Es un cangrejo
